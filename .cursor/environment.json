@@ -1,0 +1,4 @@
+{
+  "name": "Le Wagon dotfiles",
+  "install": ".cursor/install.sh"
+}
